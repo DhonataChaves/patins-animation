@@ -4,6 +4,7 @@ Esse projeto teve como desafio a criação de uma página animada com o objetivo
 Á página foi desenvolvida com diversas animações utilizando CSS puro, buscando proporcionar uma experiência visual moderna e envolvente.
 
 ✨ Destaques:
+
 . Apresentação principal do produto (patins) com foco em destaque;
 
 . Galeria de fotos mostrando pessoas utilizando os patins;
